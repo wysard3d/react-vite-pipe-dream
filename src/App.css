@@ -1,0 +1,15 @@
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+nav a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
